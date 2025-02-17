@@ -27,7 +27,9 @@ Download DMG file TBot2PC Intel x64.dmg from release
   `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
   `brew install ffmpeg`
+
 ---
+
 ## How to use
 Just send to bot photo, files, videos, voice message...
 This thing will be transfer to Download folder
