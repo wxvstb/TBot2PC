@@ -16,7 +16,8 @@ Download DMG file TBot2PC Intel x64.dmg from release
 - Select Setting
 - Paste your API then press Save API
 - Press Start
-  [![Video Instruction]](https://youtube.com/shorts/CY9ETUqUCZc)
+
+[[Video Instruction]](https://youtube.com/shorts/CY9ETUqUCZc)
 
   ## Add fully work
   ### Need to work save voice messages
