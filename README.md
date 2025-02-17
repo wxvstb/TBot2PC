@@ -28,5 +28,10 @@ Download DMG file TBot2PC Intel x64.dmg from release
 
   `brew install ffmpeg`
 ---
+## How to use
+Just send to bot photo, files, videos, voice message...
+This thing will be transfer to Download folder
+
+---
 
 ## Have nice experience!
