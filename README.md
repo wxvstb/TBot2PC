@@ -19,7 +19,7 @@ Download DMG file TBot2PC Intel x64.dmg from release
 
 [Video Instruction](https://youtube.com/shorts/CY9ETUqUCZc)
 
-  ## Add fully work
+  ## Add fully work (not optimized)
   ### Need to work save voice messages
   - Open the terminal
   - Paste this command
