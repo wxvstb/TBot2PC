@@ -24,7 +24,8 @@ Download DMG file TBot2PC Intel x64.dmg from release
   - Open the terminal
   - Paste this command
     
-  `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+  ```macOS
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
   `brew install ffmpeg`
 
