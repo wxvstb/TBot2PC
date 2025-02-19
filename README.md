@@ -36,4 +36,14 @@ This thing will be transfer to Download folder
 
 ---
 
+## Support project
+
+[Support project](https://send.monobank.ua/jar/8zk5n6iCPU)
+
+Thank you for all your donation!❤️
+
+---
+
 ## Have nice experience!
+
+
