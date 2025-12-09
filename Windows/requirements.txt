@@ -1,0 +1,4 @@
+psutil==6.1.1
+pyTelegramBotAPI==4.23.0
+pystray
+pillow
